@@ -63,7 +63,7 @@ void natpush(struct stack &s, unsigned int i) { //the natural push() function. i
     s.base = temp;
 }
 
-void print(struct stack &s) { //
+void print(struct stack &s) { // this function is not required in the problem
 
     struct stack buff;
 
