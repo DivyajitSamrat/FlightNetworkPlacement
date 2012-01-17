@@ -1,0 +1,9 @@
+- i implemeted the stack using structure
+- i made two push functions, the push() which is required in the problem and also the natural push()
+- then i implemented the stacks as you can see in the code.
+
+- for the part b, the logic i used is:
+      a sequence of digits is valid, i.e. can be generated using the given conditions on the push if and only if:
+      1) the digit next to every digit is greater tnan it, or
+      2) the digit next to every digit is just 1 less than the digit.
+      both these conditions can succesfully validate all the inputs.
