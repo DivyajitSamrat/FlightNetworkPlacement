@@ -1,0 +1,7 @@
+- i tried to code this problem as realistically as possible. i implemeted the problem using a circular array since the problem involves kids standing in a circular manner.
+- in a circular array the end pointer points to the start pointer.
+- each kid is numbered.
+- after recieving the input value of the number of players, the build() function builds the circular array with numbered kids.
+- and then when the random number (N) is entered, the deletion (killing is the name of the function) of the kids form the game starts.
+- the code iteratively finds the kid to be removed each time and until only one kid reamains, which is the winner.
+- the code runs in linear time.
