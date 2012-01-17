@@ -7,3 +7,4 @@
       1) the digit next to every digit is greater tnan it, or
       2) the digit next to every digit is just 1 less than the digit.
       both these conditions can succesfully validate all the inputs.
+- the code runs in linear time.
